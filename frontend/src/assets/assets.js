@@ -79,7 +79,7 @@ export const assets = {
     parcel_icon
 }
 
-export const menu_list = [
+export const menu_list =[
     {
         menu_name: "Beverages",
         menu_image: beverages
